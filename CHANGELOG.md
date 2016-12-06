@@ -1,5 +1,8 @@
 # Changes
 
+## v2.1.0-2.19.4 (2016-12-06)
+  * Upgrades Jenkins to 2.19.4 LTS
+
 ## v2.1.0-2.19.3 (2016-11-16)
   * Upgrades Jenkins to 2.19.3 LTS
 
