@@ -137,6 +137,7 @@
 		<ssh-slaves.version>1.11</ssh-slaves.version>
 		<support-core.version>2.33</support-core.version>
 		<structs.version>1.5</structs.version>
+		<swarm.version>2.0</swarm.version>	
 		<timestamper.version>1.8.7</timestamper.version>
 		<token-macro.version>2.0</token-macro.version>
 		<translation.version>1.15</translation.version>
